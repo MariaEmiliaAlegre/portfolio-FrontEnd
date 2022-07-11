@@ -1,9 +1,9 @@
 # portfolio-FrontEnd
+
 My portfolio
 Tarea Desafio GitHub - YoProgramo - ARGENTINA PROGRAMA
 
-Posibles Tecnologias a utilizar
+Para el desarrollo del Front End se necesita, segun APUNTES... 
 
-Estructuras, Estilos:HTML,CSS,BOOTSSTRAP.
-
-Lenguaje programacion: JAVASCRIPT, ANGULAR.
+Estructura y estilos: HTML, CSS o framework como Bootstrap
+Lenguaje programación: JavaScript, java, PHP o bien pueden ser framework  como Angular
